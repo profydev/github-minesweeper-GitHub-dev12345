@@ -1,4 +1,5 @@
 {
-  "commands": [],
-  "Hello World": []
+  "commands": [
+    "clear A8"
+  ]
 }
